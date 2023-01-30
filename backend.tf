@@ -7,3 +7,5 @@ terraform {
     dynamodb_table = "ggcanary-state-lock"
   }
 }
+
+# Comment
